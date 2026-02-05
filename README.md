@@ -7,3 +7,6 @@
 [Link to public Figma file](https://www.figma.com/design/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0-1&t=2c2jYIGKavEdk9Sd-1)
 [Link to private Figma file](https://www.figma.com/design/2brvd5kSt2mNuofbxv026F/Digital-Business-Card--Copy-?node-id=0-1&t=w0xL8Lgs0ybwwYpj-1)
 
+# Profile Picture Attribution
+Foto von <a href="https://unsplash.com/de/@possessedphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Possessed Photography</a> auf <a href="https://unsplash.com/de/fotos/weisse-und-braune-mensch-roboter-illustration-YKW0JjP7rlU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
