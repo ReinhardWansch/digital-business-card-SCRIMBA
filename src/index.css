@@ -1,6 +1,10 @@
 @import 'tailwindcss';
+@import '@fontsource/inter/latin.css';
 
 @theme {
+    /* Fonts */
+    --font-card: "Inter", sans-serif;
+    /* Backgroundcolors */
     --color-bg-page: #23252C;
     --color-bg-card: #1A1B21;
     --color-bg-footer: #161619;
