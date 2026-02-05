@@ -8,7 +8,7 @@ export default function Info() {
             <a href="https://de.wikipedia.org/wiki/Ex_Machina_(Film)">eva.website</a>
             <div>
                 <button><img src="/icon-mail.svg" alt="mail-icon" />Email</button>
-                <button><img src="/icon-linkedin.svg" alt="linkedin-icon" />LinkedIn</button>
+                <button><img src="/icon-linkedIn.svg" alt="linkedin-icon" />LinkedIn</button>
             </div>
         </section>
     )
